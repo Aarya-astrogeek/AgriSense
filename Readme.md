@@ -90,7 +90,7 @@ This makes the system suitable for **large-scale agri-market intelligence platfo
 ##  Dashboard Access
 
 The interactive Power BI dashboard can be accessed here:  
-👉 [Live Power BI Dashboard](https://iitgoffice-my.sharepoint.com/:u:/g/personal/k_yatharth_iitg_ac_in/IQCwhaN-UP7kQpkTwa3bhvUMAZMM2_mdcnPmDZMXgwN2wVg?e=xEbIlN
+[Live Power BI Dashboard](https://iitgoffice-my.sharepoint.com/:u:/g/personal/k_yatharth_iitg_ac_in/IQCwhaN-UP7kQpkTwa3bhvUMAZMM2_mdcnPmDZMXgwN2wVg?e=xEbIlN
 
 Below are selected previews from the dashboard.
 
