@@ -1,0 +1,109 @@
+AGRI-PRICE INTELLIGENCE PLATFORM
+PRODUCT FRAMEWORK DOCUMENT
+
+--------------------------------------------------
+
+1. PRODUCT OVERVIEW
+This product is an end-to-end agri-market intelligence system designed to forecast crop prices and convert them into actionable business insights. The platform supports decision-making for procurement, pricing, and risk management across states, crops, and markets.
+
+--------------------------------------------------
+
+2. PRODUCT OBJECTIVES
+- Forecast agricultural commodity prices across regions
+- Identify high-margin crop and state opportunities
+- Assess regional risk and volatility
+- Enable data-driven procurement decisions
+- Provide a scalable framework for new crops and regions
+
+--------------------------------------------------
+
+3. TARGET USERS
+- Farmers
+- Agri-traders and wholesalers
+- Procurement teams
+- Agri-business companies
+- Policy makers and analysts
+
+--------------------------------------------------
+
+4. MODULAR PRODUCT ARCHITECTURE
+
+4.1 Data Ingestion Layer
+- Historical crop price data
+- Market-level price datasets
+- State and commodity identifiers
+
+Output:
+- Cleaned and standardized CSV datasets
+
+--------------------------------------------------
+
+4.2 Forecasting & Modeling Layer
+- Time-series forecasting for crop prices
+- Margin forecasting models
+- Accuracy evaluation and tracking
+- Bucket-based modeling for different crop behaviors
+
+Output:
+- Price forecasts
+- Margin projections
+- Model accuracy metrics
+
+--------------------------------------------------
+
+4.3 Analytics & Intelligence Layer
+- Margin opportunity analysis
+- State-wise performance index calculation
+- Risk zone classification
+- Procurement signal generation (Buy / Hold / Avoid)
+
+Output:
+- Business intelligence datasets
+
+--------------------------------------------------
+
+4.4 Visualization & Decision Layer
+- Interactive dashboards (Power BI / Tableau)
+- State-wise maps and rankings
+- Commodity and market filters
+- Trend and comparison charts
+
+Output:
+- Business-ready interactive dashboard
+
+--------------------------------------------------
+
+5. SCALABILITY & EXTENSIBILITY
+- New crops can be added by extending input data
+- New states or markets are automatically reflected
+- Forecasting models can be upgraded independently
+- Dashboard structure remains unchanged
+
+--------------------------------------------------
+
+6. BUSINESS USE CASES
+- Procurement planning and sourcing decisions
+- Identification of high-profit crops and regions
+- Risk-aware pricing strategies
+- Market expansion and entry analysis
+
+--------------------------------------------------
+
+7. DELIVERABLES
+- Interactive dashboard (Power BI)
+- Forecast and analytics CSV files
+- Product framework document (this file)
+- Modular and scalable system design
+
+--------------------------------------------------
+
+8. FUTURE ENHANCEMENTS
+- Real-time data integration
+- Weather and climate signal incorporation
+- Automated model retraining
+- Mobile-friendly dashboards
+- Role-based views for different stakeholders
+
+--------------------------------------------------
+
+END OF DOCUMENT
