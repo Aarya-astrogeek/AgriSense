@@ -87,6 +87,12 @@ The analytics framework is designed to scale effortlessly:
 This makes the system suitable for **large-scale agri-market intelligence platforms**.
 
 ---
+##  Dashboard Access
+
+The interactive Power BI dashboard can be accessed here:  
+👉 [Live Power BI Dashboard](PASTE_YOUR_LINK_HERE)
+
+Below are selected previews from the dashboard.
 
 ##  Tools & Technologies
 
