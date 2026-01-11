@@ -1,0 +1,5 @@
+Stakeholder,Primary Need,Dashboard Outputs
+Farmer,Price trend & timing,"Forecast trend, risk zone, expected range"
+Trader,Arbitrage & margin,"Retail–wholesale margin, widening/shrinking signals"
+Wholesaler,Procurement timing & inventory,"Stock/Defer signals, volatility, confidence bands"
+Policymaker,Market stability & balancing,"Risk zones, state performance index, regional balancing suggestions"

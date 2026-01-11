@@ -1,0 +1,201 @@
+commodity,role,state,latest_price,delta_vs_national
+Atta (Wheat),Potential Source (Lower Price),Manipur,3183.92,-0.9899999999997817
+Atta (Wheat),Potential Source (Lower Price),Andaman and Nicobar,3184.91,0.0
+Atta (Wheat),Potential Source (Lower Price),Andhra Pradesh,3184.91,0.0
+Atta (Wheat),Potential Source (Lower Price),Arunachal pradesh,3184.91,0.0
+Atta (Wheat),Potential Source (Lower Price),Assam,3184.91,0.0
+Atta (Wheat),Potential Sink (Higher Price),Andaman and Nicobar,3184.91,0.0
+Atta (Wheat),Potential Sink (Higher Price),Andhra Pradesh,3184.91,0.0
+Atta (Wheat),Potential Sink (Higher Price),Arunachal pradesh,3184.91,0.0
+Atta (Wheat),Potential Sink (Higher Price),Assam,3184.91,0.0
+Atta (Wheat),Potential Sink (Higher Price),Bihar,3184.91,0.0
+Gram Dal,Potential Source (Lower Price),Manipur,8452.39,-21.850000000000364
+Gram Dal,Potential Source (Lower Price),Andaman and Nicobar,8474.24,0.0
+Gram Dal,Potential Source (Lower Price),Andhra Pradesh,8474.24,0.0
+Gram Dal,Potential Source (Lower Price),Arunachal pradesh,8474.24,0.0
+Gram Dal,Potential Source (Lower Price),Assam,8474.24,0.0
+Gram Dal,Potential Sink (Higher Price),Andaman and Nicobar,8474.24,0.0
+Gram Dal,Potential Sink (Higher Price),Andhra Pradesh,8474.24,0.0
+Gram Dal,Potential Sink (Higher Price),Arunachal pradesh,8474.24,0.0
+Gram Dal,Potential Sink (Higher Price),Assam,8474.24,0.0
+Gram Dal,Potential Sink (Higher Price),Bihar,8474.24,0.0
+Groundnut Oil (Packed),Potential Source (Lower Price),Andaman and Nicobar,17245.15,0.0
+Groundnut Oil (Packed),Potential Source (Lower Price),Andhra Pradesh,17245.15,0.0
+Groundnut Oil (Packed),Potential Source (Lower Price),Arunachal pradesh,17245.15,0.0
+Groundnut Oil (Packed),Potential Source (Lower Price),Assam,17245.15,0.0
+Groundnut Oil (Packed),Potential Source (Lower Price),Bihar,17245.15,0.0
+Groundnut Oil (Packed),Potential Sink (Higher Price),Manipur,17307.68,62.529999999998836
+Groundnut Oil (Packed),Potential Sink (Higher Price),Andaman and Nicobar,17245.15,0.0
+Groundnut Oil (Packed),Potential Sink (Higher Price),Andhra Pradesh,17245.15,0.0
+Groundnut Oil (Packed),Potential Sink (Higher Price),Arunachal pradesh,17245.15,0.0
+Groundnut Oil (Packed),Potential Sink (Higher Price),Assam,17245.15,0.0
+Gur,Potential Source (Lower Price),Andaman and Nicobar,4767.62,0.0
+Gur,Potential Source (Lower Price),Andhra Pradesh,4767.62,0.0
+Gur,Potential Source (Lower Price),Arunachal pradesh,4767.62,0.0
+Gur,Potential Source (Lower Price),Assam,4767.62,0.0
+Gur,Potential Source (Lower Price),Bihar,4767.62,0.0
+Gur,Potential Sink (Higher Price),Manipur,4784.73,17.109999999999673
+Gur,Potential Sink (Higher Price),Andaman and Nicobar,4767.62,0.0
+Gur,Potential Sink (Higher Price),Andhra Pradesh,4767.62,0.0
+Gur,Potential Sink (Higher Price),Arunachal pradesh,4767.62,0.0
+Gur,Potential Sink (Higher Price),Assam,4767.62,0.0
+Masoor Dal,Potential Source (Lower Price),Andaman and Nicobar,8136.88,0.0
+Masoor Dal,Potential Source (Lower Price),Andhra Pradesh,8136.88,0.0
+Masoor Dal,Potential Source (Lower Price),Arunachal pradesh,8136.88,0.0
+Masoor Dal,Potential Source (Lower Price),Assam,8136.88,0.0
+Masoor Dal,Potential Source (Lower Price),Bihar,8136.88,0.0
+Masoor Dal,Potential Sink (Higher Price),Manipur,8144.54,7.6599999999998545
+Masoor Dal,Potential Sink (Higher Price),Andaman and Nicobar,8136.88,0.0
+Masoor Dal,Potential Sink (Higher Price),Andhra Pradesh,8136.88,0.0
+Masoor Dal,Potential Sink (Higher Price),Arunachal pradesh,8136.88,0.0
+Masoor Dal,Potential Sink (Higher Price),Assam,8136.88,0.0
+Moong Dal,Potential Source (Lower Price),Andaman and Nicobar,10632.55,0.0
+Moong Dal,Potential Source (Lower Price),Andhra Pradesh,10632.55,0.0
+Moong Dal,Potential Source (Lower Price),Arunachal pradesh,10632.55,0.0
+Moong Dal,Potential Source (Lower Price),Assam,10632.55,0.0
+Moong Dal,Potential Source (Lower Price),Bihar,10632.55,0.0
+Moong Dal,Potential Sink (Higher Price),Manipur,10642.18,9.630000000001019
+Moong Dal,Potential Sink (Higher Price),Andaman and Nicobar,10632.55,0.0
+Moong Dal,Potential Sink (Higher Price),Andhra Pradesh,10632.55,0.0
+Moong Dal,Potential Sink (Higher Price),Arunachal pradesh,10632.55,0.0
+Moong Dal,Potential Sink (Higher Price),Assam,10632.55,0.0
+Mustard Oil (Packed),Potential Source (Lower Price),Manipur,13180.89,-0.7200000000011642
+Mustard Oil (Packed),Potential Source (Lower Price),Andaman and Nicobar,13181.61,0.0
+Mustard Oil (Packed),Potential Source (Lower Price),Andhra Pradesh,13181.61,0.0
+Mustard Oil (Packed),Potential Source (Lower Price),Arunachal pradesh,13181.61,0.0
+Mustard Oil (Packed),Potential Source (Lower Price),Assam,13181.61,0.0
+Mustard Oil (Packed),Potential Sink (Higher Price),Andaman and Nicobar,13181.61,0.0
+Mustard Oil (Packed),Potential Sink (Higher Price),Andhra Pradesh,13181.61,0.0
+Mustard Oil (Packed),Potential Sink (Higher Price),Arunachal pradesh,13181.61,0.0
+Mustard Oil (Packed),Potential Sink (Higher Price),Assam,13181.61,0.0
+Mustard Oil (Packed),Potential Sink (Higher Price),Bihar,13181.61,0.0
+Onion,Potential Source (Lower Price),Manipur,4040.32,-28.559999999999945
+Onion,Potential Source (Lower Price),Andaman and Nicobar,4068.88,0.0
+Onion,Potential Source (Lower Price),Andhra Pradesh,4068.88,0.0
+Onion,Potential Source (Lower Price),Arunachal pradesh,4068.88,0.0
+Onion,Potential Source (Lower Price),Assam,4068.88,0.0
+Onion,Potential Sink (Higher Price),Andaman and Nicobar,4068.88,0.0
+Onion,Potential Sink (Higher Price),Andhra Pradesh,4068.88,0.0
+Onion,Potential Sink (Higher Price),Arunachal pradesh,4068.88,0.0
+Onion,Potential Sink (Higher Price),Assam,4068.88,0.0
+Onion,Potential Sink (Higher Price),Bihar,4068.88,0.0
+Palm Oil (Packed),Potential Source (Lower Price),Andaman and Nicobar,9324.7,0.0
+Palm Oil (Packed),Potential Source (Lower Price),Andhra Pradesh,9324.7,0.0
+Palm Oil (Packed),Potential Source (Lower Price),Arunachal pradesh,9324.7,0.0
+Palm Oil (Packed),Potential Source (Lower Price),Assam,9324.7,0.0
+Palm Oil (Packed),Potential Source (Lower Price),Bihar,9324.7,0.0
+Palm Oil (Packed),Potential Sink (Higher Price),Manipur,9333.39,8.68999999999869
+Palm Oil (Packed),Potential Sink (Higher Price),Andaman and Nicobar,9324.7,0.0
+Palm Oil (Packed),Potential Sink (Higher Price),Andhra Pradesh,9324.7,0.0
+Palm Oil (Packed),Potential Sink (Higher Price),Arunachal pradesh,9324.7,0.0
+Palm Oil (Packed),Potential Sink (Higher Price),Assam,9324.7,0.0
+Potato,Potential Source (Lower Price),Manipur,3004.84,-1.4600000000000364
+Potato,Potential Source (Lower Price),Andaman and Nicobar,3006.3,0.0
+Potato,Potential Source (Lower Price),Andhra Pradesh,3006.3,0.0
+Potato,Potential Source (Lower Price),Arunachal pradesh,3006.3,0.0
+Potato,Potential Source (Lower Price),Assam,3006.3,0.0
+Potato,Potential Sink (Higher Price),Andaman and Nicobar,3006.3,0.0
+Potato,Potential Sink (Higher Price),Andhra Pradesh,3006.3,0.0
+Potato,Potential Sink (Higher Price),Arunachal pradesh,3006.3,0.0
+Potato,Potential Sink (Higher Price),Assam,3006.3,0.0
+Potato,Potential Sink (Higher Price),Bihar,3006.3,0.0
+Rice,Potential Source (Lower Price),Manipur,3906.13,-8.9699999999998
+Rice,Potential Source (Lower Price),Andaman and Nicobar,3915.1,0.0
+Rice,Potential Source (Lower Price),Andhra Pradesh,3915.1,0.0
+Rice,Potential Source (Lower Price),Arunachal pradesh,3915.1,0.0
+Rice,Potential Source (Lower Price),Assam,3915.1,0.0
+Rice,Potential Sink (Higher Price),Andaman and Nicobar,3915.1,0.0
+Rice,Potential Sink (Higher Price),Andhra Pradesh,3915.1,0.0
+Rice,Potential Sink (Higher Price),Arunachal pradesh,3915.1,0.0
+Rice,Potential Sink (Higher Price),Assam,3915.1,0.0
+Rice,Potential Sink (Higher Price),Bihar,3915.1,0.0
+Soya Oil (Packed),Potential Source (Lower Price),Andaman and Nicobar,11011.94,0.0
+Soya Oil (Packed),Potential Source (Lower Price),Andhra Pradesh,11011.94,0.0
+Soya Oil (Packed),Potential Source (Lower Price),Arunachal pradesh,11011.94,0.0
+Soya Oil (Packed),Potential Source (Lower Price),Assam,11011.94,0.0
+Soya Oil (Packed),Potential Source (Lower Price),Bihar,11011.94,0.0
+Soya Oil (Packed),Potential Sink (Higher Price),Manipur,11044.54,32.600000000000364
+Soya Oil (Packed),Potential Sink (Higher Price),Andaman and Nicobar,11011.94,0.0
+Soya Oil (Packed),Potential Sink (Higher Price),Andhra Pradesh,11011.94,0.0
+Soya Oil (Packed),Potential Sink (Higher Price),Arunachal pradesh,11011.94,0.0
+Soya Oil (Packed),Potential Sink (Higher Price),Assam,11011.94,0.0
+Sugar,Potential Source (Lower Price),Andaman and Nicobar,4153.01,0.0
+Sugar,Potential Source (Lower Price),Andhra Pradesh,4153.01,0.0
+Sugar,Potential Source (Lower Price),Arunachal pradesh,4153.01,0.0
+Sugar,Potential Source (Lower Price),Assam,4153.01,0.0
+Sugar,Potential Source (Lower Price),Bihar,4153.01,0.0
+Sugar,Potential Sink (Higher Price),Manipur,4156.89,3.880000000000109
+Sugar,Potential Sink (Higher Price),Andaman and Nicobar,4153.01,0.0
+Sugar,Potential Sink (Higher Price),Andhra Pradesh,4153.01,0.0
+Sugar,Potential Sink (Higher Price),Arunachal pradesh,4153.01,0.0
+Sugar,Potential Sink (Higher Price),Assam,4153.01,0.0
+Sunflower Oil (Packed),Potential Source (Lower Price),Andaman and Nicobar,11139.28,0.0
+Sunflower Oil (Packed),Potential Source (Lower Price),Andhra Pradesh,11139.28,0.0
+Sunflower Oil (Packed),Potential Source (Lower Price),Arunachal pradesh,11139.28,0.0
+Sunflower Oil (Packed),Potential Source (Lower Price),Assam,11139.28,0.0
+Sunflower Oil (Packed),Potential Source (Lower Price),Bihar,11139.28,0.0
+Sunflower Oil (Packed),Potential Sink (Higher Price),Manipur,11200.19,60.909999999999854
+Sunflower Oil (Packed),Potential Sink (Higher Price),Andaman and Nicobar,11139.28,0.0
+Sunflower Oil (Packed),Potential Sink (Higher Price),Andhra Pradesh,11139.28,0.0
+Sunflower Oil (Packed),Potential Sink (Higher Price),Arunachal pradesh,11139.28,0.0
+Sunflower Oil (Packed),Potential Sink (Higher Price),Assam,11139.28,0.0
+Tea Loose,Potential Source (Lower Price),Manipur,23994.47,-216.97999999999956
+Tea Loose,Potential Source (Lower Price),Andaman and Nicobar,24211.45,0.0
+Tea Loose,Potential Source (Lower Price),Andhra Pradesh,24211.45,0.0
+Tea Loose,Potential Source (Lower Price),Arunachal pradesh,24211.45,0.0
+Tea Loose,Potential Source (Lower Price),Assam,24211.45,0.0
+Tea Loose,Potential Sink (Higher Price),Andaman and Nicobar,24211.45,0.0
+Tea Loose,Potential Sink (Higher Price),Andhra Pradesh,24211.45,0.0
+Tea Loose,Potential Sink (Higher Price),Arunachal pradesh,24211.45,0.0
+Tea Loose,Potential Sink (Higher Price),Assam,24211.45,0.0
+Tea Loose,Potential Sink (Higher Price),Bihar,24211.45,0.0
+Tomato,Potential Source (Lower Price),Andaman and Nicobar,3613.88,0.0
+Tomato,Potential Source (Lower Price),Andhra Pradesh,3613.88,0.0
+Tomato,Potential Source (Lower Price),Arunachal pradesh,3613.88,0.0
+Tomato,Potential Source (Lower Price),Assam,3613.88,0.0
+Tomato,Potential Source (Lower Price),Bihar,3613.88,0.0
+Tomato,Potential Sink (Higher Price),Manipur,3684.49,70.60999999999967
+Tomato,Potential Sink (Higher Price),Andaman and Nicobar,3613.88,0.0
+Tomato,Potential Sink (Higher Price),Andhra Pradesh,3613.88,0.0
+Tomato,Potential Sink (Higher Price),Arunachal pradesh,3613.88,0.0
+Tomato,Potential Sink (Higher Price),Assam,3613.88,0.0
+Tur/Arhar Dal,Potential Source (Lower Price),Manipur,15474.8,-0.28000000000065484
+Tur/Arhar Dal,Potential Source (Lower Price),Andaman and Nicobar,15475.08,0.0
+Tur/Arhar Dal,Potential Source (Lower Price),Andhra Pradesh,15475.08,0.0
+Tur/Arhar Dal,Potential Source (Lower Price),Arunachal pradesh,15475.08,0.0
+Tur/Arhar Dal,Potential Source (Lower Price),Assam,15475.08,0.0
+Tur/Arhar Dal,Potential Sink (Higher Price),Andaman and Nicobar,15475.08,0.0
+Tur/Arhar Dal,Potential Sink (Higher Price),Andhra Pradesh,15475.08,0.0
+Tur/Arhar Dal,Potential Sink (Higher Price),Arunachal pradesh,15475.08,0.0
+Tur/Arhar Dal,Potential Sink (Higher Price),Assam,15475.08,0.0
+Tur/Arhar Dal,Potential Sink (Higher Price),Bihar,15475.08,0.0
+Urad Dal,Potential Source (Lower Price),Manipur,11517.83,-6.010000000000218
+Urad Dal,Potential Source (Lower Price),Andaman and Nicobar,11523.84,0.0
+Urad Dal,Potential Source (Lower Price),Andhra Pradesh,11523.84,0.0
+Urad Dal,Potential Source (Lower Price),Arunachal pradesh,11523.84,0.0
+Urad Dal,Potential Source (Lower Price),Assam,11523.84,0.0
+Urad Dal,Potential Sink (Higher Price),Andaman and Nicobar,11523.84,0.0
+Urad Dal,Potential Sink (Higher Price),Andhra Pradesh,11523.84,0.0
+Urad Dal,Potential Sink (Higher Price),Arunachal pradesh,11523.84,0.0
+Urad Dal,Potential Sink (Higher Price),Assam,11523.84,0.0
+Urad Dal,Potential Sink (Higher Price),Bihar,11523.84,0.0
+Vanaspati (Packed),Potential Source (Lower Price),Andaman and Nicobar,11297.05,0.0
+Vanaspati (Packed),Potential Source (Lower Price),Andhra Pradesh,11297.05,0.0
+Vanaspati (Packed),Potential Source (Lower Price),Arunachal pradesh,11297.05,0.0
+Vanaspati (Packed),Potential Source (Lower Price),Assam,11297.05,0.0
+Vanaspati (Packed),Potential Source (Lower Price),Bihar,11297.05,0.0
+Vanaspati (Packed),Potential Sink (Higher Price),Manipur,11345.12,48.07000000000153
+Vanaspati (Packed),Potential Sink (Higher Price),Andaman and Nicobar,11297.05,0.0
+Vanaspati (Packed),Potential Sink (Higher Price),Andhra Pradesh,11297.05,0.0
+Vanaspati (Packed),Potential Sink (Higher Price),Arunachal pradesh,11297.05,0.0
+Vanaspati (Packed),Potential Sink (Higher Price),Assam,11297.05,0.0
+Wheat,Potential Source (Lower Price),Andaman and Nicobar,2775.8,0.0
+Wheat,Potential Source (Lower Price),Andhra Pradesh,2775.8,0.0
+Wheat,Potential Source (Lower Price),Arunachal pradesh,2775.8,0.0
+Wheat,Potential Source (Lower Price),Assam,2775.8,0.0
+Wheat,Potential Source (Lower Price),Bihar,2775.8,0.0
+Wheat,Potential Sink (Higher Price),Manipur,2777.67,1.8699999999998909
+Wheat,Potential Sink (Higher Price),Andaman and Nicobar,2775.8,0.0
+Wheat,Potential Sink (Higher Price),Andhra Pradesh,2775.8,0.0
+Wheat,Potential Sink (Higher Price),Arunachal pradesh,2775.8,0.0
+Wheat,Potential Sink (Higher Price),Assam,2775.8,0.0

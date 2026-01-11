@@ -1,0 +1,661 @@
+state,commodity,market_retail,date,latest_actual_price_retail,market_wholesale,latest_actual_price_wholesale,latest_margin
+Andaman and Nicobar,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Andhra Pradesh,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Arunachal pradesh,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Assam,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Bihar,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Chandigarh,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Chhattisgarh,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Delhi,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+DNH and DD,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Goa,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Gujarat,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Haryana,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Himachal Pradesh,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Jammu and Kashmir,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Jharkhand,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Karnataka,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Kerala,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Madhya Pradesh,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Maharashtra,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Meghalaya,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Mizoram,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Nagaland,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Odisha,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Puducherry,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Punjab,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Rajasthan,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Sikkim,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Tamil Nadu,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Telangana,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Tripura,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Uttar Pradesh,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Uttarakhand,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+West Bengal,Rice,Retail,2024-08-30,43.74,Wholesale,3915.1,-3871.36
+Andaman and Nicobar,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Andhra Pradesh,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Arunachal pradesh,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Assam,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Bihar,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Chandigarh,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Chhattisgarh,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Delhi,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+DNH and DD,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Goa,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Gujarat,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Haryana,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Himachal Pradesh,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Jammu and Kashmir,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Jharkhand,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Karnataka,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Kerala,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Madhya Pradesh,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Maharashtra,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Meghalaya,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Mizoram,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Nagaland,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Odisha,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Puducherry,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Punjab,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Rajasthan,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Sikkim,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Tamil Nadu,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Telangana,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Tripura,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Uttar Pradesh,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Uttarakhand,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+West Bengal,Atta (Wheat),Retail,2024-08-30,35.76,Wholesale,3184.91,-3149.1499999999996
+Andaman and Nicobar,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Andhra Pradesh,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Arunachal pradesh,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Assam,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Bihar,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Chandigarh,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Chhattisgarh,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Delhi,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+DNH and DD,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Goa,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Gujarat,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Haryana,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Himachal Pradesh,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Jammu and Kashmir,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Jharkhand,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Karnataka,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Kerala,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Madhya Pradesh,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Maharashtra,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Meghalaya,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Mizoram,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Nagaland,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Odisha,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Puducherry,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Punjab,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Rajasthan,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Sikkim,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Tamil Nadu,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Telangana,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Tripura,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Uttar Pradesh,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Uttarakhand,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+West Bengal,Tea Loose,Retail,2024-08-30,267.71,Wholesale,24211.45,-23943.74
+Andaman and Nicobar,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Andhra Pradesh,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Arunachal pradesh,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Assam,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Bihar,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Chandigarh,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Chhattisgarh,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Delhi,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+DNH and DD,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Goa,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Gujarat,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Haryana,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Himachal Pradesh,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Jammu and Kashmir,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Jharkhand,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Karnataka,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Kerala,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Madhya Pradesh,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Maharashtra,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Meghalaya,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Mizoram,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Nagaland,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Odisha,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Puducherry,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Punjab,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Rajasthan,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Sikkim,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Tamil Nadu,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Telangana,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Tripura,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Uttar Pradesh,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Uttarakhand,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+West Bengal,Vanaspati (Packed),Retail,2024-08-30,123.25,Wholesale,11297.05,-11173.8
+Andaman and Nicobar,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Andhra Pradesh,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Arunachal pradesh,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Assam,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Bihar,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Chandigarh,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Chhattisgarh,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Delhi,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+DNH and DD,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Goa,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Gujarat,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Haryana,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Himachal Pradesh,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Jammu and Kashmir,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Jharkhand,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Karnataka,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Kerala,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Madhya Pradesh,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Maharashtra,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Meghalaya,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Mizoram,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Nagaland,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Odisha,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Puducherry,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Punjab,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Rajasthan,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Sikkim,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Tamil Nadu,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Telangana,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Tripura,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Uttar Pradesh,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Uttarakhand,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+West Bengal,Wheat,Retail,2024-08-30,30.74,Wholesale,2775.8,-2745.0600000000004
+Andaman and Nicobar,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Andhra Pradesh,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Arunachal pradesh,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Assam,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Bihar,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Chandigarh,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Chhattisgarh,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Delhi,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+DNH and DD,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Goa,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Gujarat,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Haryana,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Himachal Pradesh,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Jammu and Kashmir,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Jharkhand,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Karnataka,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Kerala,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Madhya Pradesh,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Maharashtra,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Meghalaya,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Mizoram,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Nagaland,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Odisha,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Puducherry,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Punjab,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Rajasthan,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Sikkim,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Tamil Nadu,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Telangana,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Tripura,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Uttar Pradesh,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Uttarakhand,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+West Bengal,Sugar,Retail,2024-08-30,44.78,Wholesale,4153.01,-4108.2300000000005
+Andaman and Nicobar,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Andhra Pradesh,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Arunachal pradesh,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Assam,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Bihar,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Chandigarh,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Chhattisgarh,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Delhi,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+DNH and DD,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Goa,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Gujarat,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Haryana,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Himachal Pradesh,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Jammu and Kashmir,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Jharkhand,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Karnataka,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Kerala,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Madhya Pradesh,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Maharashtra,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Meghalaya,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Mizoram,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Nagaland,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Odisha,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Puducherry,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Punjab,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Rajasthan,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Sikkim,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Tamil Nadu,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Telangana,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Tripura,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Uttar Pradesh,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Uttarakhand,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+West Bengal,Mustard Oil (Packed),Retail,2024-08-30,139.88,Wholesale,13181.61,-13041.730000000001
+Andaman and Nicobar,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Andhra Pradesh,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Arunachal pradesh,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Assam,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Bihar,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Chandigarh,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Chhattisgarh,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Delhi,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+DNH and DD,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Goa,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Gujarat,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Haryana,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Himachal Pradesh,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Jammu and Kashmir,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Jharkhand,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Karnataka,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Kerala,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Madhya Pradesh,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Maharashtra,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Meghalaya,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Mizoram,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Nagaland,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Odisha,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Puducherry,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Punjab,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Rajasthan,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Sikkim,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Tamil Nadu,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Telangana,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Tripura,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Uttar Pradesh,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Uttarakhand,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+West Bengal,Sunflower Oil (Packed),Retail,2024-08-30,120.14,Wholesale,11139.28,-11019.140000000001
+Andaman and Nicobar,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Andhra Pradesh,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Arunachal pradesh,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Assam,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Bihar,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Chandigarh,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Chhattisgarh,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Delhi,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+DNH and DD,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Goa,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Gujarat,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Haryana,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Himachal Pradesh,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Jammu and Kashmir,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Jharkhand,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Karnataka,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Kerala,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Madhya Pradesh,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Maharashtra,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Meghalaya,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Mizoram,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Nagaland,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Odisha,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Puducherry,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Punjab,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Rajasthan,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Sikkim,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Tamil Nadu,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Telangana,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Tripura,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Uttar Pradesh,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Uttarakhand,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+West Bengal,Palm Oil (Packed),Retail,2024-08-30,99.56,Wholesale,9324.7,-9225.140000000001
+Andaman and Nicobar,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Andhra Pradesh,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Arunachal pradesh,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Assam,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Bihar,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Chandigarh,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Chhattisgarh,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Delhi,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+DNH and DD,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Goa,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Gujarat,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Haryana,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Himachal Pradesh,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Jammu and Kashmir,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Jharkhand,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Karnataka,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Kerala,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Madhya Pradesh,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Maharashtra,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Meghalaya,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Mizoram,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Nagaland,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Odisha,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Puducherry,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Punjab,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Rajasthan,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Sikkim,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Tamil Nadu,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Telangana,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Tripura,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Uttar Pradesh,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Uttarakhand,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+West Bengal,Groundnut Oil (Packed),Retail,2024-08-30,183.37,Wholesale,17245.15,-17061.780000000002
+Andaman and Nicobar,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Andhra Pradesh,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Arunachal pradesh,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Assam,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Bihar,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Chandigarh,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Chhattisgarh,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Delhi,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+DNH and DD,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Goa,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Gujarat,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Haryana,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Himachal Pradesh,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Jammu and Kashmir,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Jharkhand,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Karnataka,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Kerala,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Madhya Pradesh,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Maharashtra,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Meghalaya,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Mizoram,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Nagaland,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Odisha,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Puducherry,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Punjab,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Rajasthan,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Sikkim,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Tamil Nadu,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Telangana,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Tripura,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Uttar Pradesh,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Uttarakhand,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+West Bengal,Soya Oil (Packed),Retail,2024-08-30,119.25,Wholesale,11011.94,-10892.69
+Andaman and Nicobar,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Andhra Pradesh,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Arunachal pradesh,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Assam,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Bihar,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Chandigarh,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Chhattisgarh,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Delhi,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+DNH and DD,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Goa,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Gujarat,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Haryana,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Himachal Pradesh,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Jammu and Kashmir,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Jharkhand,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Karnataka,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Kerala,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Madhya Pradesh,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Maharashtra,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Meghalaya,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Mizoram,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Nagaland,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Odisha,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Puducherry,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Punjab,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Rajasthan,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Sikkim,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Tamil Nadu,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Telangana,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Tripura,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Uttar Pradesh,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Uttarakhand,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+West Bengal,Moong Dal,Retail,2024-08-30,115.86,Wholesale,10632.55,-10516.689999999999
+Andaman and Nicobar,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Andhra Pradesh,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Arunachal pradesh,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Assam,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Bihar,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Chandigarh,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Chhattisgarh,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Delhi,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+DNH and DD,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Goa,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Gujarat,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Haryana,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Himachal Pradesh,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Jammu and Kashmir,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Jharkhand,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Karnataka,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Kerala,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Madhya Pradesh,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Maharashtra,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Meghalaya,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Mizoram,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Nagaland,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Odisha,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Puducherry,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Punjab,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Rajasthan,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Sikkim,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Tamil Nadu,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Telangana,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Tripura,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Uttar Pradesh,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Uttarakhand,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+West Bengal,Masoor Dal,Retail,2024-08-30,89.78,Wholesale,8136.88,-8047.1
+Andaman and Nicobar,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Andhra Pradesh,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Arunachal pradesh,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Assam,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Bihar,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Chandigarh,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Chhattisgarh,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Delhi,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+DNH and DD,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Goa,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Gujarat,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Haryana,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Himachal Pradesh,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Jammu and Kashmir,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Jharkhand,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Karnataka,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Kerala,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Madhya Pradesh,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Maharashtra,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Meghalaya,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Mizoram,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Nagaland,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Odisha,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Puducherry,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Punjab,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Rajasthan,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Sikkim,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Tamil Nadu,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Telangana,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Tripura,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Uttar Pradesh,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Uttarakhand,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+West Bengal,Gram Dal,Retail,2024-08-30,91.3,Wholesale,8474.24,-8382.94
+Andaman and Nicobar,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Andhra Pradesh,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Arunachal pradesh,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Assam,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Bihar,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Chandigarh,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Chhattisgarh,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Delhi,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+DNH and DD,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Goa,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Gujarat,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Haryana,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Himachal Pradesh,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Jammu and Kashmir,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Jharkhand,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Karnataka,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Kerala,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Madhya Pradesh,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Maharashtra,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Meghalaya,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Mizoram,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Nagaland,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Odisha,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Puducherry,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Punjab,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Rajasthan,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Sikkim,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Tamil Nadu,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Telangana,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Tripura,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Uttar Pradesh,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Uttarakhand,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+West Bengal,Onion,Retail,2024-08-30,48.33,Wholesale,4068.88,-4020.55
+Andaman and Nicobar,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Andhra Pradesh,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Arunachal pradesh,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Assam,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Bihar,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Chandigarh,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Chhattisgarh,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Delhi,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+DNH and DD,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Goa,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Gujarat,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Haryana,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Himachal Pradesh,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Jammu and Kashmir,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Jharkhand,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Karnataka,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Kerala,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Madhya Pradesh,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Maharashtra,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Meghalaya,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Mizoram,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Nagaland,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Odisha,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Puducherry,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Punjab,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Rajasthan,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Sikkim,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Tamil Nadu,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Telangana,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Tripura,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Uttar Pradesh,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Uttarakhand,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+West Bengal,Potato,Retail,2024-08-30,37.1,Wholesale,3006.3,-2969.2000000000003
+Andaman and Nicobar,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Andhra Pradesh,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Arunachal pradesh,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Assam,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Bihar,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Chandigarh,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Chhattisgarh,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Delhi,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+DNH and DD,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Goa,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Gujarat,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Haryana,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Himachal Pradesh,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Jammu and Kashmir,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Jharkhand,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Karnataka,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Kerala,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Madhya Pradesh,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Maharashtra,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Meghalaya,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Mizoram,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Nagaland,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Odisha,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Puducherry,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Punjab,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Rajasthan,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Sikkim,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Tamil Nadu,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Telangana,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Tripura,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Uttar Pradesh,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Uttarakhand,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+West Bengal,Tomato,Retail,2024-08-30,45.41,Wholesale,3613.88,-3568.4700000000003
+Andaman and Nicobar,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Andhra Pradesh,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Arunachal pradesh,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Assam,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Bihar,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Chandigarh,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Chhattisgarh,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Delhi,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+DNH and DD,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Goa,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Gujarat,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Haryana,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Himachal Pradesh,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Jammu and Kashmir,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Jharkhand,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Karnataka,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Kerala,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Madhya Pradesh,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Maharashtra,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Meghalaya,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Mizoram,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Nagaland,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Odisha,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Puducherry,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Punjab,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Rajasthan,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Sikkim,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Tamil Nadu,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Telangana,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Tripura,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Uttar Pradesh,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Uttarakhand,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+West Bengal,Gur,Retail,2024-08-30,54.76,Wholesale,4767.62,-4712.86
+Andaman and Nicobar,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Andhra Pradesh,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Arunachal pradesh,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Assam,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Bihar,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Chandigarh,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Chhattisgarh,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Delhi,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+DNH and DD,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Goa,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Gujarat,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Haryana,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Himachal Pradesh,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Jammu and Kashmir,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Jharkhand,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Karnataka,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Kerala,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Madhya Pradesh,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Maharashtra,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Meghalaya,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Mizoram,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Nagaland,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Odisha,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Puducherry,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Punjab,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Rajasthan,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Sikkim,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Tamil Nadu,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Telangana,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Tripura,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Uttar Pradesh,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Uttarakhand,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+West Bengal,Urad Dal,Retail,2024-08-30,124.91,Wholesale,11523.84,-11398.93
+Andaman and Nicobar,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Andhra Pradesh,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Arunachal pradesh,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Assam,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Bihar,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Chandigarh,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Chhattisgarh,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Delhi,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+DNH and DD,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Goa,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Gujarat,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Haryana,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Himachal Pradesh,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Jammu and Kashmir,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Jharkhand,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Karnataka,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Kerala,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Madhya Pradesh,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Maharashtra,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Meghalaya,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Mizoram,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Nagaland,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Odisha,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Puducherry,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Punjab,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Rajasthan,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Sikkim,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Tamil Nadu,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Telangana,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Tripura,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Uttar Pradesh,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+Uttarakhand,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
+West Bengal,Tur/Arhar Dal,Retail,2024-08-30,164.46,Wholesale,15475.08,-15310.62
