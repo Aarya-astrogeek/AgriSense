@@ -130,7 +130,7 @@ This dashboard enables:
 Author
 
 **Aarya Shisode, Yatharth Kabra and Ankit Sinha**
-Consulting and Analytics Club Project
+*Consulting and Analytics Club Project
 
 ---
 
